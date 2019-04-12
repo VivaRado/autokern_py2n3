@@ -1,0 +1,12 @@
+__pycache__*
+__pycache__/
+node_modules*
+node_modules/
+flask_session*
+flask_session/
+logs/log*
+logs/log/
+_old*
+_old/
+*.pyc
+*.pyo
