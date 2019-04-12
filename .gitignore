@@ -10,3 +10,5 @@ _old*
 _old/
 *.pyc
 *.pyo
+_dump*
+_dump/
